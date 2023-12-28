@@ -1,7 +1,6 @@
 
 
 # <p align="center"> Abdallah Mohamed  </p>
-
 <p align="center">
 <img alt="Coder GIF"  width=300 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
 </p>
@@ -23,25 +22,57 @@
 
 - Thank you for taking the time to learn more about me. I look forward to the opportunity to work with you and contribute my skills and knowledge to your team.
 
-# 🤹‍♀️ Skills
+## Frontend Development
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86"  />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86"  />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86"  />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86"  />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86"  />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75" height="75" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75" "/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="75" height="75" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="86" height="86"  />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86"  />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75" "/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="75" height="75" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="75" height="75"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="75" height="75" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75" />  &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86"  /> &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86"  /> &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86"  /> &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86"  /> &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86"  /> &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75" height="75" />
+</div>
+
+## Backend Development
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="86" height="86" alt="Php free icon" title="Php free icon"> &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86"  /> &nbsp;&nbsp;&nbsp;
+
+  
+
+
+
+</div>
+
+## Control
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75"  /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" width="75" height="75" alt="Bitbucket free icon" title="Bitbucket free icon">  &nbsp;&nbsp;&nbsp;
+</div>
+
+## Database
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="86" height="86" /> &nbsp;&nbsp;&nbsp;
+</div>
+
+## Framework
+<div style="display: flex; align-items: flex-start;">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="86" height="86"/> &nbsp;&nbsp;&nbsp;
+</div>
+
+## Design Softwares
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="75" height="75" alt="Photoshop free icon" title="Photoshop free icon"> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5611/5611129.png" width="75" height="75" alt="Xd free icon" title="Xd free icon"> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5611/5611037.png" width="75" height="75" alt="Illustrator free icon" title="Illustrator free icon"> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5611/5611014.png" width="75" height="75" alt="After effects free icon" title="After effects free icon"> &nbsp;&nbsp;&nbsp;
+   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="75" height="75" alt="Figma free icon" title="Figma free icon"> &nbsp;&nbsp;&nbsp;
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"  width="75" height="75" src="https://june-changelog.s3.eu-central-1.amazonaws.com/spline_icon_twitter_removebg_preview_db2832210b.png">
+</div>
+
+## Other
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="75" height="75"  />  &nbsp;&nbsp;&nbsp;
 </div>
